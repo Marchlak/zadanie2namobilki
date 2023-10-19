@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    <string name="q_wozek">Czy mammon nie ma nóg?</string>
+    <string name="q_miska">Czy miska lubi jeść czekoladke</string>
+    <string name="q_ryszard">Czy Ryszard to pierwsze imie Ojca Jaspera?</string>
+    <string name="q_boiler">Czy w boilerze znajduję sie bomba?</string>
+    <string name="q_ryzowar">Czy plocki git kiedykolwiek użył ryżowaru?</string>
+    <string name="correct_answer">Dobrze</string>
+    <string name="incorrect_answer">Źle</string>
+    <string name="title_activity_prompt">PromptActivity</string>
+    <string name="button_tip">Podpowiedź</string>
+    <string name="cheat">Nie oszukuj</string>
+</resources>
